@@ -13,7 +13,7 @@ Hay varios modos de ejecución una vez el programa está en ejecución.
 Resume, StepInto, StepOver, StepReturn, Suspend y Terminate.
 ### La perspectiva del depurador.:question:
 Eclipse tiene varias formas de mostrarnos nuestros proyectos. Estas formas son llamadas perspectivas. En nuestro caso (eclipse) se pueden visualizar las variables, los breakpoints, las expresiones, la vista Debug y los botones para controlar la depuración.
-#### Vistas de variables, expresiones y breakpoints:point_left:
+### Vistas de variables, expresiones y breakpoints:point_left:
 En esta ventana se pueden cambiar los valores de las variables mientras el programa está en ejecución. También puedes ver los breakpoints que hay puestos en el código, junto con la linea en la que están y a la función que pertenece.
 ### Exception Breakpoint :loop:
 Esta herramienta atrapa el tipo de excepción que deseemos. 
