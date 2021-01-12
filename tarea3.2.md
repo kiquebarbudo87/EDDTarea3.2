@@ -1,8 +1,8 @@
 # EDDTarea3.2
-HHH
+
 * # Contenidos teoricos del tema
-### Depuración de un programa
-La depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se conoce como debugging, porque se asemeja a la eliminación de bichos (bugs).
+### Depuración de un programa:bug:
+La depuración de programas es el proceso de identificar y corregir errores de programación. Existen técnicas para la revisión sistemática del código fuente y se cuenta con medios computacionales para la detección de errores (depuradores) y facilidades integradas en los sistemas lower CASE y en los ambientes de desarrollo integrado, sigue siendo en buena medida una actividad manual, que desafía la paciencia, la imaginación y la intuición de programadores.
 ### Breakpoint en un programa
 Un punto de interrupción (también conocido en inglés por breakpoint) es una marca que ponemos en una linea de nuestro código fuente, de tal forma que cuando la ejecución llegue a ese punto el proceso de nuestra aplicación se detendrá y podremos analizar su estado en ese momento.
 ### Watchpoint 
