@@ -1,6 +1,6 @@
 # EDDTarea3.2
 
-* # Contenidos teoricos del tema
+* # DEPURADOR
 ### Depuración de un programa:bug:
 La depuración de programas es el proceso de identificar y corregir errores de programación. Existen técnicas para la revisión sistemática del código fuente y se cuenta con medios computacionales para la detección de errores (depuradores) y facilidades integradas en los sistemas lower CASE y en los ambientes de desarrollo integrado, sigue siendo en buena medida una actividad manual, que desafía la paciencia, la imaginación y la intuición de programadores.
 ### Breakpoint en un programa:red_circle:
